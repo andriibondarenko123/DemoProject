@@ -1,2 +1,0 @@
-# DemoProject
-Prometheus Grafana project 
